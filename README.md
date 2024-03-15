@@ -1,2 +1,3 @@
 # treatians
-Best Medical Tourism Company in India for your medical treatment. At Treatians you can book Health check packages, online lab tests, online medicines, online doctor consultation
+Our Mission: To be one of the leading bridge between patients, doctors and hospitals. We dedicate ourselves to establish a technology powered platform that caters to the needs of patient without any hassle.
+
